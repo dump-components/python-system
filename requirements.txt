@@ -1,0 +1,7 @@
+requests
+loguru
+peewee
+pytesseract
+PyAutoGUI
+selenium
+python-dotenv
